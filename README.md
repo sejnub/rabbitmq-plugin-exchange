@@ -2,6 +2,8 @@
 
 ## Links RabbitMQ
 
+- <https://github.com/rabbitmq/internals>
+
 - <https://github.com/rabbitmq/rabbitmq-server/tree/master/src>
 
 - <https://github.com/rabbitmq/rabbitmq-external-exchange>
